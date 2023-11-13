@@ -17,6 +17,7 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: #121116;
 }
 
 ul,
@@ -872,7 +873,6 @@ p {
 }
 
 .about-me {
-  background-color: #FAFAFC;
   position: relative;
 }
 
@@ -890,7 +890,7 @@ p {
 }
 
 .about-me__info h3 {
-  color: #1F2020;
+  color: #ffffff;
   max-width: 501px;
   margin-bottom: 32px;
 }
@@ -898,6 +898,7 @@ p {
 .about-me__info p {
   max-width: 500px;
   line-height: 26px;
+  color: #adb5bd;
 }
 
 .about-me__info p:nth-last-of-type(1) {
