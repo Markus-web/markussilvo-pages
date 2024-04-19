@@ -330,9 +330,9 @@ header .mobile-menu__main li .active-menu::after {
 }
 
 .btn.btn_yellow {
-  background: #FFE817;
+  background: #00f898;
   color: #000000;
-  border: 1px solid #FFE817;
+  border: 1px solid #00f898;
 }
 
 .btn.btn_yellow:hover {
@@ -384,7 +384,7 @@ header .mobile-menu__main li .active-menu::after {
 }
 
 .services-item.active-item, .services-item:hover {
-  background-color: #FFE817;
+  background-color: #00f898;
   border-radius: 7px;
 }
 
@@ -793,7 +793,7 @@ p {
 }
 
 .banner-area__heading h1 span {
-  color: #FFE817;
+  color: #00f898;
   text-decoration: underline;
 }
 
