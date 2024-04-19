@@ -17,7 +17,7 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #121116;
+  background-color: #ffffff;
 }
 
 ul,
@@ -699,7 +699,7 @@ h5 {
 p {
   font-size: 16px;
   font-weight: 400;
-  color: #404040;
+  color: #000000;
 }
 
 /* === For Small Device ( 0px - 767px) == */
@@ -890,7 +890,7 @@ p {
 }
 
 .about-me__info h3 {
-  color: #fce825;
+  color: #28a745;
   max-width: 501px;
   margin-bottom: 32px;
 }
